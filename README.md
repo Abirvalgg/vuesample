@@ -1,6 +1,6 @@
 # vuechat
 
-> A Vue.js project
+> A Vue.js project <3
 
 ## Build Setup
 
